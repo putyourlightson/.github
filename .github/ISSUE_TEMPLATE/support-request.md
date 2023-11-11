@@ -12,3 +12,7 @@ A question about the plugin or how it works. We are diligent about documentation
 
 ### Additional context
 Add any other context or screenshots about the support request here.
+
+### Versions
+- Plugin version:
+- Craft version:
