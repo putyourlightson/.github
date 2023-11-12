@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### Which plugin does this enhancement relate to?
+### Which plugin (and version/edition, if appropriate) does this enhancement relate to?
 
 ### Which section of the documentation or concept needs improving and why?
 
